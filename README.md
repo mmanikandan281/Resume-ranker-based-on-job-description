@@ -3,6 +3,14 @@
 ## Project Overview
 The Resume Ranking System is a machine learning-based project that scores resumes based on a given job description. It leverages Natural Language Processing (NLP) techniques and a Random Forest Regressor to predict the relevance of resumes to the job description, helping recruiters streamline the hiring process.
 
+![Screenshot (69)](https://github.com/user-attachments/assets/6083603b-53d5-4d3a-a496-3ff3ffa17564)
+
+
+![Screenshot (61)](https://github.com/user-attachments/assets/08057bdb-0b13-4183-ba35-157f38d8ccef)
+
+
+
+
 ## Features
 - Processes resumes and job descriptions using NLP techniques.
 - Computes similarity scores between resumes and job descriptions.
